@@ -1,0 +1,15 @@
+*.sage.py
+
+## tex stuff
+*.dpth
+*.log
+*.md5
+*.aux
+*.auxlock
+*.bbl
+*.log
+*.out
+*.blg
+
+## ipython notebook checkpoints
+*.ipynb_checkpoints/
