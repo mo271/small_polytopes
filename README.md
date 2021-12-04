@@ -2,7 +2,7 @@
 
 Here we present some small 4-polytopes and sagemath code how to generate them.
 
-<img src="./tex/plot.svg">
+<img src="./tex/plot.svg" alt="plot of size of some polytopes" width="100%">
 
 ##
 
